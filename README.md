@@ -1,5 +1,7 @@
 # Unaligned Frame
 
+[![Documentation status badge showing latest documentation available on a bright green background and indicating the project is current and maintained](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://TheHuwW.github.io/unaligned-frame/)
+
 A Python container for handling collections of `pandas.Series` with unequal lengths, providing a familiar DataFrame-like API.
 
 ## Features
